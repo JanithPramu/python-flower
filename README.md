@@ -24,7 +24,7 @@ This project uses Python's `turtle` module to create a visually appealing geomet
    ```
 3. Run the script:
    ```bash
-   python turtle_art.py
+   python flower.py
    ```
 
 ## Customization
