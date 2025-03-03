@@ -35,9 +35,6 @@ This project uses Python's `turtle` module to create a visually appealing geomet
 ## Example Output
 The script generates a rotating circular pattern with changing colors, resulting in a mesmerizing design.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 Feel free to submit pull requests for improvements or optimizations.
 
